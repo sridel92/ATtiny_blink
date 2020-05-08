@@ -24,6 +24,8 @@ The Pcb board could be like this one.
 
 I use also strip board for this
 
+this video doesn't says more about this... The fun is to learn and share.
 
-x
+https://www.youtube.com/watch?v=<VIDEO ID>
+https://youtu.be/<VIDEO URL>
 
