@@ -33,8 +33,9 @@ The Pcb board could be like this one.
 
 I use also strip board for this
 
-this video doesn't says more about this... The fun is to learn and share.
+this gif doesn't says more about this... The fun is to learn and share.
 
-https://www.youtube.com/watch?v=GBdv9fyUcHE
+![attiny_blink.gif](/Pict/ATtiny_blink.gif)
+
 
 
