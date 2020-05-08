@@ -5,12 +5,13 @@ Here you can find the schematics for this really simple project. Do note that I 
 ![attiny_blink_schema.jpg](/Pict/attiny_blink_schema.jpg)
 Format: ![Schem with Fritzing](url)
 
-x
-
-the Pcb board could be like this one.
+The Pcb board could be like this one.
 
 ![attiny_blink_pcb.jpg](/Pict/attiny_blink_pcb.jpg)
 Format: ![PCB with Fritzing](url)
+
+I use also strip board for this
+
 
 x
 
