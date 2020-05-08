@@ -2,9 +2,11 @@
 
 This is a Solar balcony blinker. A solar cell charging a super capacitor and at the dawn, slowy blink a blue Led.
 
+![IMG_0838.jpg](/Pict/IMG_0838.jpg)
+
 I have put it in a jam pot and hope it can blink for years...
 
-
+![IMG_0840.jpg](/Pict/IMG_0840.jpg)
 
 Here you can find the schematics for this really simple project. Do note that I don't use the pcb but instead strip board.
 
