@@ -13,13 +13,13 @@ Here you can find the schematics for this really simple project. Do note that I 
 ![attiny_blink_schema.jpg](/Pict/attiny_blink_schema.jpg)
 
 List of material
-ATTINY85V-10P (the V series act with low voltage from 1.8 to 5.5 volts)
-Super capacitor 4 farads, 5,5 volts (or higher capacity)
-5.1 v Zener
-1n4148 (or BAT41)
-4 volts Solar cell
-a piece of strip board
-a STK500 programmer or Arduino Uno (the programming part is not shown in this git)
+- 1 x ATTINY85V-10P (the V series act with low voltage from 1.8 to 5.5 volts)
+- 1 x Super capacitor 4 farads, 5,5 volts (or higher capacity)
+- 1 x 5.1 v Zener
+- 1 x 1n4148 (or BAT41)
+- 1 x 4 volts Solar cell
+- a piece of strip board
+- a STK500 programmer or Arduino Uno (the programming part is not shown in this git)
 
 The solar cell deliver about 4 volts, maybe more during sunny time. I have put a 5.1 v Zener diode in parallel to protect the circuit. A diode 1n4148 ( better will be BAT41 ) block a reverse voltage flow from the the capacitor to the solar cell. at the connection between Zener and diode, we take voltage mesure for sensing the dark status, going to attiny analog ADC3 (pin 2)
 
