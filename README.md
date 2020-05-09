@@ -17,6 +17,8 @@ List of material
 - 1 x Super capacitor 4 farads, 5,5 volts (or higher capacity)
 - 1 x 5.1 v Zener
 - 1 x 1n4148 (or BAT41)
+- 1 x Led
+- 1 x 1k Resistor
 - 1 x 4 volts Solar cell
 - a piece of strip board
 - a STK500 programmer or Arduino Uno (the programming part is not shown in this git)
