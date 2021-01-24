@@ -1,0 +1,11 @@
+https://phmarduino.wordpress.com/2015/12/11/programmer-un-attiny-85/
+
+
+
+Dans le menu « Outil », sélectionner :
+
+Type de carte : Arduino UNO,
+Indiquer votre port COM.
+Ensuite ouvrir le sketch ArduinoISP disponible via les menus dans les exemples et le téléverser dans votre Arduino.
+
+Votre Arduino est désormais capable de programmer des ATtiny85.
